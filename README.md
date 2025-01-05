@@ -1,1 +1,1 @@
-# coder-dotfiles
+# dotfiles
